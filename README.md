@@ -7,3 +7,4 @@ Javascript
 Selenium
 CI
 DevOps
+Kubernetes
